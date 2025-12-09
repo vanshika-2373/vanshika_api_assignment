@@ -77,12 +77,13 @@ GET /posts/:id
   }
 }
 
-How To Run
+
+
+▶️ How To Run
 
 Install packages
 
 npm install
-
 
 Start dev server
 
